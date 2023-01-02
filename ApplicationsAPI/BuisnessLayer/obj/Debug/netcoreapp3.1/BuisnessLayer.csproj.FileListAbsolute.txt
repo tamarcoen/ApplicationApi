@@ -1,0 +1,13 @@
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.deps.json
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\bin\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.AssemblyInfo.cs
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.csproj.CopyComplete
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\BuisnessLayer\obj\Debug\netcoreapp3.1\BuisnessLayer.pdb

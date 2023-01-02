@@ -1,0 +1,10 @@
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.deps.json
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.AssemblyReference.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfoInputs.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfo.cs
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\Tanar\Desktop\jifiti\ApplicationsAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.pdb
